@@ -1,0 +1,43 @@
+2018-08-23 09:21:32,062 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-08-23 09:23:23,335 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:lixinhezhangback:0.0.1-SNAPSHOT @ E:\code\OutMan\lixinhezhangback\pom.xml.
+2018-08-23 09:23:26,144 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lixinhezhangback/src/main/java
+2018-08-23 09:23:26,145 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lixinhezhangback/src/main/resources
+2018-08-23 09:23:26,149 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lixinhezhangback/src/main/resources
+2018-08-23 09:23:26,171 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lixinhezhangback/src/test/java
+2018-08-23 09:23:28,640 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2018-08-23 09:23:28,642 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-23 09:23:29,221 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:lixinhezhangback:0.0.1-SNAPSHOT @ E:\code\OutMan\lixinhezhangback\pom.xml.
+2018-08-23 09:23:29,997 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lixinhezhangback/src/main/java
+2018-08-23 09:23:29,998 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lixinhezhangback/src/main/resources
+2018-08-23 09:23:29,998 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lixinhezhangback/src/main/resources
+2018-08-23 09:23:29,999 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lixinhezhangback/src/test/java
+2018-08-23 09:23:30,350 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-08-23 09:23:33,112 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-23 09:23:33,124 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-23 09:23:33,157 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 09:23:33,160 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-23 09:23:33,160 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\code\OutMan\lixinhezhangback\src\test\resources
+2018-08-23 09:25:22,971 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-08-23 09:28:10,103 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:lixinhezhangback:0.0.1-SNAPSHOT @ E:\code\OutMan\lixinhezhangback\pom.xml.
+2018-08-23 09:28:11,251 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lixinhezhangback/src/main/java
+2018-08-23 09:28:11,252 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lixinhezhangback/src/main/resources
+2018-08-23 09:28:11,258 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lixinhezhangback/src/main/resources
+2018-08-23 09:28:11,270 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lixinhezhangback/src/test/java
+2018-08-23 09:28:11,555 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-08-23 09:28:11,558 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-23 09:28:12,328 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:lixinhezhangback:0.0.1-SNAPSHOT @ E:\code\OutMan\lixinhezhangback\pom.xml.
+2018-08-23 09:28:13,058 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lixinhezhangback/src/main/java
+2018-08-23 09:28:13,059 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lixinhezhangback/src/main/resources
+2018-08-23 09:28:13,062 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lixinhezhangback/src/main/resources
+2018-08-23 09:28:13,069 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lixinhezhangback/src/test/java
+2018-08-23 09:28:13,295 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-08-23 09:28:14,072 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-23 09:28:14,077 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-23 09:28:14,089 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 09:28:14,093 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-23 09:28:14,093 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\code\OutMan\lixinhezhangback\src\test\resources
+2018-08-23 09:28:15,730 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-23 09:28:15,747 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 09:28:15,747 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 09:28:15,749 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-23 09:28:15,749 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\code\OutMan\lixinhezhangback\src\test\resources
